@@ -28,18 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NandiniKasaraboina&show_icons=true&theme=radical" height="150px"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NandiniKasaraboina&layout=compact&theme=radical" height="150px"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NandiniKasaraboina&theme=radical&border_radius=10&v=1" />
-</p>
-
-
 
 ## 🌟 Let's Connect  
 
