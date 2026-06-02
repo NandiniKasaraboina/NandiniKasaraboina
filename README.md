@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">🌟 Nandini 🌟</h1>
 
-<!--
-**NandiniKasaraboina/NandiniKasaraboina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=F772B2&center=true&vCenter=true&lines=👋🏻+Hello!+Welcome+to+my+GitHub+Profile;🎓+AIML+Undergraduate;👩‍💻+Web+developer+%2B+AI+Builder;" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me  
+
+👩🏻‍💻Focusing on Full Stack Projects and ML projects<br>
+
+🛠️ I fix the broken things and break the fixed things <br>
+🌱 Loves to learn like always :)
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Languages  
+[![My Skills](https://skillicons.dev/icons?i=c,py,js)](https://skillicons.dev) 
+
+### 🌐 Frontend  
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,vite,tailwind,bootstrap)](https://skillicons.dev)
+
+### 🛜 Backend  
+[![My Skills](https://skillicons.dev/icons?i=flask,py,nodejs,express,fastapi)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NandiniKasaraboina&show_icons=true&theme=radical" height="150px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NandiniKasaraboina&layout=compact&theme=radical" height="150px"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NandiniKasaraboina&theme=radical&border_radius=10&v=1" />
+</p>
+
+
+
+## 🌟 Let's Connect  
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nandini-kasaraboina-3615412b4/)  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/NandiniKasaraboina)  
+
+---
+
+⭐️ *“Coding is not just a skill, it's an art.”* ⭐️
